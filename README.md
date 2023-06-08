@@ -1,1 +1,5 @@
-# main
+- 👋 Hi, I’m @luigi-pavarini
+- 🎲 I’m interested in statistics, data analysis, and machine learning.
+- 🌱 I’m currently studying at [IME-USP](https://www.ime.usp.br/en/home/), widely recognized as one of the [top universities in Latin America](https://www.topuniversities.com/university-rankings/latin-american-university-rankings/2023), focusing on advanced statistical modeling techniques and deep learning.
+- 🚀 I’m looking to collaborate on projects involving data analysis and predictive modeling.
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/luigi-pavarini-3b409419a/).
